@@ -1,0 +1,10 @@
+== README
+
+This is a sample app demonstrating content extraction from a remote url
+
+It Uses
+Ruby - 2.2.1
+Rails - 4.2.6
+Postgres
+Nokogiri
+Open-uri
